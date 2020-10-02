@@ -95,3 +95,4 @@ we're starting to investigate alternatives.
 
 ### blog credits: [@domenic](https://github.com/domenic)
 ---------------------------------------------------------------------------
+Massive respect for [Digital Ocean](https://digitalocean.com) & team for introducing [Hacktoberfest](https://hacktoberfest.digitalocean.com) 💙
